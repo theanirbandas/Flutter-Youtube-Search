@@ -7,3 +7,5 @@ This is an youtube search application made in Flutter
   - **Cached Image Network** - for loading images
   - **BLoC** - for logic componenet
   
+### Demo
+![](demo.gif)
